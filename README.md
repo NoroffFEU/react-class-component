@@ -1,4 +1,4 @@
-# React Class Component Example
+# React Class Component LifeCycle Methods
 
 ```
 npm install
